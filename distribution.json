@@ -11,7 +11,7 @@
       "id": "pixelmon-1.12.2",
       "name": "픽셀몬",
       "description": "",
-      "icon": null,
+      "icon": "https://media.discordapp.net/attachments/957320875194064926/1036150399704498186/aabdbb6588b83878.png",
       "version": "1.0.0",
       "address": "서버주소:25565",
       "minecraftVersion": "1.12.2",
@@ -358,9 +358,9 @@
           "name": "res.zip",
           "type": "File",
           "artifact": {
-            "size": 33379751,
-            "url": "https://www.dropbox.com/s/l6pd8ne1atiddkb/res.zip?dl=1",
-            "MD5": "f760b6e36be901d0a7d44ba9b6775b7a",
+            "size": 22163801,
+            "url": "https://raw.githubusercontent.com/dodrang/DV-Monster/main/servers/pixelmon-1.12.2/files/resourcepacks/res.zip",
+            "MD5": "3f8c733142e458ba7da123aa03543173",
             "path": "resourcepacks/res.zip"
           }
         },
