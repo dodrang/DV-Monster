@@ -325,9 +325,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 179,
             "url": "https://raw.githubusercontent.com/dodrang/DV-Monster/main/servers/pixelmon-1.12.2/files/options.txt",
-            "MD5": "2e314d63d6b79a32d59239b76d8f8bcc",
             "path": "options.txt"
           }
         },
