@@ -351,14 +351,14 @@
           }
         },
         {
-          "id": "res.zip",
-          "name": "res.zip",
+          "id": "res3.zip",
+          "name": "res3.zip",
           "type": "File",
           "artifact": {
             "size": 22163801,
-            "url": "https://raw.githubusercontent.com/dodrang/DV-Monster/main/servers/pixelmon-1.12.2/files/res.zip",
+            "url": "https://raw.githubusercontent.com/dodrang/DV-Monster/main/servers/pixelmon-1.12.2/files/res3.zip",
             "MD5": "3f8c733142e458ba7da123aa03543173",
-            "path": "resourcepacks/res.zip"
+            "path": "resourcepacks/res3.zip"
           }
         },
         {
