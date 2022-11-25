@@ -355,9 +355,9 @@
           "name": "res.zip",
           "type": "File",
           "artifact": {
-            "size": 32355841,
+            "size": 32365478,
             "url": "https://www.dropbox.com/s/qj3llm7vauzsn3v/res.zip?dl=1",
-            "MD5": "7f3dbe00e4d1fcbb5e979072f59e9f47",
+            "MD5": "a923c88624ada0c0d941eb4a94c5bbfc",
             "path": "resourcepacks/res.zip"
           }
         },
