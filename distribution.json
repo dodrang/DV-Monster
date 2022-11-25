@@ -290,7 +290,7 @@
           }
         },
         {
-          "id": "dsurround:DynamicSurroundings-1.12.2-3.6.1.0@jar",
+          "id": "com.mod:DynamicSurroundings-1.12.2-3.6.1.0@jar",
           "name": "Dynamic Sound",
           "type": "ForgeMod",
           "artifact": {
