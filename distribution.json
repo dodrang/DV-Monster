@@ -277,7 +277,7 @@
         },
         {
           "id": "creo.mod:koreanchat:1.12-1.9@jar",
-          "name": "Korean Chat",
+          "name": "한글채팅",
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
@@ -291,7 +291,7 @@
         },
         {
           "id": "com.mod:DynamicSurroundings-1.12.2-3.6.1.0@jar",
-          "name": "Dynamic Sound",
+          "name": "사운드 추가",
           "type": "ForgeMod",
           "artifact": {
             "size": 15929762,
