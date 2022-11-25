@@ -351,14 +351,14 @@
           }
         },
         {
-          "id": "res4.zip",
-          "name": "res4.zip",
+          "id": "res5.zip",
+          "name": "res5.zip",
           "type": "File",
           "artifact": {
-            "size": 25172443,
-            "url": "https://raw.githubusercontent.com/dodrang/DV-Monster/main/servers/pixelmon-1.12.2/files/res4.zip",
-            "MD5": "1de44b4cd4d445e0a27f241bba4454b7",
-            "path": "resourcepacks/res4.zip"
+            "size": 29347819,
+            "url": "https://www.dropbox.com/s/wrw6evzyqwsdeqc/res5.zip?dl=1",
+            "MD5": "0bfaee1688b82433a705aad8fa104a6d",
+            "path": "resourcepacks/res5.zip"
           }
         },
         {
