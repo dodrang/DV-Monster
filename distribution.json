@@ -277,7 +277,7 @@
         },
         {
           "id": "creo.mod:koreanchat:1.12-1.9@jar",
-          "name": "한글채팅",
+          "name": "Korean Chat",
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
@@ -289,20 +289,6 @@
             "def": false
           }
         },
-        {
-          "id": "com.mod:DynamicSurroundings-1.12.2-3.6.1.0@jar",
-          "name": "사운드 추가",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15929762,
-            "url": "https://raw.githubusercontent.com/dodrang/DV-Monster/main/servers/pixelmon-1.12.2/forgemods/optionaloff/DynamicSurroundings-1.12.2-3.6.1.0.jar",
-            "MD5": "1a0d50a34941865ff091a492e0612502"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },    
         {
           "id": "net.optifine:optifine:1.12.2_HD_U_G6_pre1@jar",
           "name": "OptiFine 1.12.2_HD_U_G6_pre1",
