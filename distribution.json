@@ -356,7 +356,7 @@
           "type": "File",
           "artifact": {
             "size": 50794103,
-            "url": "https://www.dropbox.com/s/qj3llm7vauzsn3v/res.zip?dl=1",
+            "url": "http://tx-cdn.skhidc.kr:1205/dose/res.zip",
             "MD5": "bb704b466c9ab5201fc670af2486cb6edbb357e4",
             "path": "resourcepacks/res.zip"
           }
